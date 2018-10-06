@@ -1,0 +1,164 @@
+html{
+    margin: 0;
+    padding: 0;
+overflow-x: hidden;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.logo__words {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    line-height: 1;
+    font-size: 0.8rem;
+
+    text-align: left
+}
+.logo__words__bold {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    line-height: 1;
+    font-weight: bold;
+    font-size: 0.8rem;
+
+    text-align: left
+}
+.nav__li {
+
+    list-style-type: none;
+    display: inline-flex;
+    padding-left: 5%;
+
+
+}
+.nav__li__a {
+    color: white;
+    list-style-type: none;
+    display: inline-flex;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.nav__li__a__service {
+    color: #061e37;
+    list-style-type: none;
+    display: inline-flex;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.h1__text {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-weight: 900;
+    font-size: large;
+}
+.p__text {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-weight: 400;
+    font-size: small;
+    padding-right: 3%;
+}
+.button__text__buy {
+    font-size: 60%;
+    background: #061e37;
+    color: white;
+    border-color: #061e37;
+    font-weight: normal;
+
+}
+.button__text__try {
+    font-size: 60%;
+    color: #061e37;
+    background: white;
+    font-weight: bold;
+
+}
+
+.section2__div__h2 {
+    font-size: large;
+
+}
+
+.img__business {
+    background: white;
+
+}
+
+.mg__file_download {
+    background: white;
+
+}
+.img__person {
+    background: white;
+
+}
+.middle__left{
+    vertical-align: middle;
+    text-align: left;
+}
+.icon1 {
+
+}
+.icon1:checked {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+}
+
+.vertical .carousel-inner {
+    height: 100%;
+}
+
+.section5__h1_blue {
+    font-size: 2.5rem;
+    color: #061e37;
+    text-align: center;
+}
+
+.section5 {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.section5__icons{
+    width: 16px;!important;
+    height: 17.37px;!important;
+    vertical-align: middle;
+    margin-left: 1rem;
+    color: #90a4ae;
+
+}
+.section6__h1_blue {
+    font-size: 2.5rem;
+    color: #061e37;
+    text-align: center;
+}
+.section6__buttonSend_green {
+    background-color: #1de9b6;
+    border-color: #1de9b6;
+
+}
+
+.footer__policy_white {
+    color: white;
+    display: inline;
+
+}
+
+.noDotLi {
+    list-style-type: none;
+
+}
+
+#root {
+    margin-bottom: 4%;
+}

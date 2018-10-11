@@ -1,7 +1,7 @@
-html{
+html {
     margin: 0;
     padding: 0;
-overflow-x: hidden;
+    overflow-x: hidden;
 }
 
 ul {
@@ -9,6 +9,7 @@ ul {
     padding: 0;
     padding-top: 5px;
 }
+
 p {
     margin: 0;
     padding: 0;
@@ -22,6 +23,7 @@ p {
 
     text-align: left
 }
+
 .logo__words__bold {
     font-family: 'Raleway', sans-serif;
     color: white;
@@ -31,14 +33,15 @@ p {
 
     text-align: left
 }
+
 .nav__li {
 
     list-style-type: none;
     display: inline-flex;
     padding-left: 5%;
 
-
 }
+
 .nav__li__a {
     color: white;
     list-style-type: none;
@@ -61,6 +64,7 @@ p {
     font-weight: 900;
     font-size: large;
 }
+
 .p__text {
     font-family: 'Raleway', sans-serif;
     color: white;
@@ -68,6 +72,7 @@ p {
     font-size: small;
     padding-right: 3%;
 }
+
 .button__text__buy {
     font-size: 60%;
     background: #061e37;
@@ -76,6 +81,7 @@ p {
     font-weight: normal;
 
 }
+
 .button__text__try {
     font-size: 60%;
     color: #061e37;
@@ -98,17 +104,21 @@ p {
     background: white;
 
 }
+
 .img__person {
     background: white;
 
 }
-.middle__left{
+
+.middle__left {
     vertical-align: middle;
     text-align: left;
 }
+
 .icon1 {
 
 }
+
 .icon1:checked {
     -webkit-transform: rotate(360deg);
     -moz-transform: rotate(360deg);
@@ -129,19 +139,24 @@ p {
     margin-top: 4%;
     margin-bottom: 4%;
 }
-.section5__icons{
-    width: 16px;!important;
-    height: 17.37px;!important;
+
+.section5__icons {
+    width: 16px;
+!important;
+    height: 17.37px;
+!important;
     vertical-align: middle;
     margin-left: 1rem;
     color: #90a4ae;
 
 }
+
 .section6__h1_blue {
     font-size: 2.5rem;
     color: #061e37;
     text-align: center;
 }
+
 .section6__buttonSend_green {
     background-color: #1de9b6;
     border-color: #1de9b6;
